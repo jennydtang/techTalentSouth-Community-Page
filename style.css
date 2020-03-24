@@ -1,0 +1,90 @@
+.row {
+    justify-content: center;
+}
+.row-fluid {
+    background-color:  rgb(50, 50, 255);
+    margin-left: -6px; 
+    width: 105%;
+
+}
+.roundedbgd {
+    position: relative;
+    left: -5%;
+    background-color: rgb(50, 50, 255);
+    height: 100px;
+    width: 110%;
+    top: -5%;
+    border-top-left-radius: 200%;
+    border-top-right-radius: 200%;
+}
+h1 {
+    font-weight: 500;
+    font-size: 6.5 rem;
+}
+h2 {
+    font-weight: bold;
+}
+h6 {
+    color: blue;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+body {
+    background: #fff url(https://www.techtalentsouth.com/hubfs/TTS-Pattern-06-1900-Medium-Animated.svg) center top no-repeat;
+    font-family: "Roboto", sans-serif;
+}
+.card-body {
+    text-align: center;
+    padding: 10%;
+}
+.card-body2 {
+    text-align: center;
+    padding: 5%;
+}
+.connect {
+    color: white;
+}
+.white {
+    background-color: white;
+    width: 60%;
+    text-align: center;
+    margin: 0 auto;
+}
+
+.form-container {
+    background-color: darkblue;
+    color: white;
+    margin: 50px auto;
+    padding: 5%;
+    width: 60%;
+    text-align: center;
+}
+
+
+.box {
+    background-color: white;
+    height: 650px;
+    padding: 5%;
+    text-align: center;
+}
+.buttonread {
+    border-radius: 50px;
+}
+
+/* Footer */
+.main-footer {
+    height: 300px;
+    background: #fff url(https://www.techtalentsouth.com/hubfs/tts%20footer%20trial1-02.png) 100% 100%  no-repeat;
+}
+.footer-row{
+    padding: 10%;
+}
+.card-title{
+    font-weight: bold;
+    color: blue;
+    text-transform: uppercase;
+}
+.card-body{
+    text-transform: uppercase;
+}
+
